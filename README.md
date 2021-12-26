@@ -1,4 +1,6 @@
-# fs1
+# Digital Dukan
+
+## The Smart Shopping List
 
 A new Flutter project.
 
